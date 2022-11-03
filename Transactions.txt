@@ -1,0 +1,75 @@
+ ** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Amount: 1000.000000
+	-> Transaction State: APPROVED.
+	-Transaction Sequence Number: 1 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Amount: 1000.000000
+	-> Transaction State: APPROVED.
+	-Transaction Sequence Number: 2 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Transaction Amount: 1000.000000
+	-> Remaining Amount: 5083.000000
+	-> Transaction State: APPROVED.
+	-Transaction Sequence Number: 3 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Transaction Amount: 1000.000000
+	-> Remaining Amount: 4083.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 4 
+
+** Transaction Receipt  **
+	-> Name: mohamed amr ahmed fawzy
+	-> Transaction Amount: 1000.000000
+	-> Remaining Amount: 22419.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 5 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Transaction Amount: 12000.000000
+	-> Remaining Amount: 10419.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 6 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Amr Ahmed Fawzy
+	-> Transaction Amount: 1883.000000
+	-> Remaining Amount: 0.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 7 
+
+** Transaction Receipt  **
+	-> Name: Mohamed Anr ahmed fawzy
+	-> Transaction Amount: 10000.000000
+	-> Remaining Amount: -598.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 8 
+
+** Transaction Receipt  **
+	-> Name: Mohamed amr ahmed fawzy
+	-> Transaction Amount: 24044.000000
+	-> Remaining Amount: 0.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 9 
+
+** Transaction Receipt  **
+	-> Name: Mohamed amr ahmed fawzy
+	-> Transaction Amount: 24044.000000
+	-> Remaining Amount: 0.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 10 
+
+** Transaction Receipt  **
+	-> Name: Mohamed amr ahmed fawzy
+	-> Transaction Amount: 24044.000000
+	-> Remaining Amount: 0.000000
+	-> Transaction State: APPROVED.
+	-> Transaction Sequence Number: 11 
+
